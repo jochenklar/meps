@@ -47,4 +47,3 @@ def parse_full_name(full_name):
                 first_names.append(word)
 
     return first_names, last_names
-
